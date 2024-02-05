@@ -8,5 +8,5 @@ References:
 https://doi.org/10.1152/ajpendo.00004.2024
 
 Author: Savani Anbalagan, PI in Institute of Molecular Biology & Biotechnology, Adam Mickiewicz University, Poznan, Poland.
-Correspondance email: savanb@amu.edu.pl
+Correspondence Email: savanb@amu.edu.pl
 Lab url: https://sites.google.com/view/zebrafishgroup/home
