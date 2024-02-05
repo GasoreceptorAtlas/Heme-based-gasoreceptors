@@ -7,6 +7,8 @@ References:
 1. Heme-based oxygen gasoreceptors. Anbalagan S. Am J Physiol Endocrinol Metab. 2024. In press. 
 https://doi.org/10.1152/ajpendo.00004.2024
 
-Author: Savani Anbalagan, PI in Institute of Molecular Biology & Biotechnology, Adam Mickiewicz University, Poznan, Poland.
+Author: Savani Anbalagan, PI in Institute of Molecular Biology & Biotechnology, Faculty of Biology, Adam Mickiewicz University, Poznan, Poland.
+
 Correspondence Email: savanb@amu.edu.pl
-Lab url: https://sites.google.com/view/zebrafishgroup/home
+
+Lab URL: https://sites.google.com/view/zebrafishgroup/home
